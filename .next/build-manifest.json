@@ -24,6 +24,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/Friends.js"
     ],
+    "/Group": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Group.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

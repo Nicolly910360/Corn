@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from 'reactstrap';
 
-import Menu from '../components/Menu'
+import Menu from '../components/Menu';
 
 function Home() {
    

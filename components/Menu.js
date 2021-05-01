@@ -1,19 +1,5 @@
 import React, { useState } from 'react';
-import {
-    Collapse,
-    Navbar,
-    NavbarToggler,
-    NavbarBrand,
-    Nav,
-    NavItem,
-    NavLink,
-    UncontrolledDropdown,
-    DropdownToggle,
-    DropdownMenu,
-    DropdownItem,
-    NavbarText,
-    Button
-  } from 'reactstrap';
+import { Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink, UncontrolledDropdown, DropdownToggle, DropdownMenu, DropdownItem, NavbarText, Button } from 'reactstrap';
 
 
 const Menu = (props) => {
@@ -40,10 +26,16 @@ return (
               <NavLink href="/Group">Popcorn Bowl</NavLink>
             </NavItem>
           </Nav>
-          <NavbarText>Simple Text</NavbarText>
         </Collapse>
       </Navbar>
     </div>
+
+
+
+
+
+
+
     );
 
 
@@ -61,6 +53,6 @@ return (
 
 
     
-}
+};
 
 export default Menu;
