@@ -1,7 +1,6 @@
 {
   "name": "site",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -16,5 +15,15 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "reactstrap": "^8.9.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolly910360/Corn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nicolly910360/Corn/issues"
+  },
+  "homepage": "https://github.com/Nicolly910360/Corn#readme",
+  "description": ""
 }
